@@ -1,0 +1,1409 @@
+Finding employees with start dates after 1-1-2011
+
+0.Suresh Chouta
+-----------Education----------------
+Col D S Raju Polytechnic,DCME, Computer Science and Engineering,1997 – 2000
+---------- Past Companies-----------
+Cisco Systems,2010-02-01,2011-09-01
+-----------Current Companies-------
+NetApp,2011-10-01,2015-08-11
+
+1.Sharanya Haridas
+-----------Education----------------
+Indian Institute of Technology, Madras,,2008 – 2013
+---------- Past Companies-----------
+TED Conferences,2012-11-01,2012-11-01
+-----------Current Companies-------
+NimbleCommerce,2015-01-01,2015-08-10
+The Huffington Post,2014-07-01,2015-08-10
+Africawatch Magazine,2014-11-01,2015-08-10
+E C Media International,2011-08-01,2015-08-10
+That's So Gloss!,2012-05-01,2015-08-10
+
+2.Siddharth Ramesh
+-----------Education----------------
+Indian Institute of Technology, Madras,,2006 – 2010
+---------- Past Companies-----------
+Clarity Solutions Group,2012-01-01,2014-08-02
+OppenheimerFunds,2011-06-01,2011-12-07
+-----------Current Companies-------
+AJO,2014-08-01,2015-08-10
+
+3.Richie Khandelwal
+-----------Education----------------
+Indian Institute of Technology, Madras,,2003 – 2007
+---------- Past Companies-----------
+Bain & Company,2013-06-01,2013-08-01
+Siemens Venture Capital (SVC),2012-12-01,2013-03-04
+A/S Norske Shell,2012-02-01,2012-08-07
+Shell Projects and Technology,2011-06-01,2012-02-09
+Shell Projects and Technology,2010-12-01,2011-06-07
+-----------Current Companies-------
+Bain & Company,2014-10-01,2015-08-11
+
+4.Gaurav Jain
+-----------Education----------------
+Indian Institute of Technology, Madras,,2002 – 2007
+---------- Past Companies-----------
+MK Capital / celltrak,2015-06-01,2015-07-02
+Wolverine Venture Fund,2013-10-01,2015-05-01
+Amazon,2014-05-01,2014-08-04
+Medtronic,2014-03-01,2014-04-02
+Komli M,2012-04-01,2013-05-01
+Komli Media,2011-09-01,2012-03-07
+-----------Current Companies-------
+
+5.Souradyuti Ghosh
+-----------Education----------------
+University of Calcutta,,2003 – 2006
+---------- Past Companies-----------
+Johns Hopkins University,2009-08-01,2015-02-05
+Johns Hopkins University,2009-08-01,2014-12-05
+-----------Current Companies-------
+Johns Hopkins University,2015-03-01,2015-08-10
+
+6.Sridhar Budhi
+-----------Education----------------
+Indian Institute of Technology,Master of Science (MSc), Chemistry,2003 – 2005
+---------- Past Companies-----------
+National Renewable Energy Laboratory,2013-03-01,2015-08-02
+Colorado School of Mines,2012-08-01,2015-08-03
+Iowa State University,2010-08-01,2012-07-02
+-----------Current Companies-------
+Eastern Wyoming College,2015-08-01,2015-08-10
+
+7.sunil bhandari
+-----------Education----------------
+indian school kuwait,,
+---------- Past Companies-----------
+-----------Current Companies-------
+
+8.Supreet Singh
+-----------Education----------------
+Punjab Engineering College,,
+---------- Past Companies-----------
+Bank of America,2010-05-01,2012-09-02
+-----------Current Companies-------
+Standard Chartered Bank,2015-03-01,2015-08-10
+Standard Chartered Bank,2012-10-01,2015-08-11
+
+9.Sunil Unaune
+-----------Education----------------
+Govt. College Of Engineering, Karad,Bachelor of Engineering (B.E.), Mechanical Engineering,1997 – 2001
+---------- Past Companies-----------
+Ford Motor Company,2008-07-01,2013-06-05
+-----------Current Companies-------
+ESI Group,2013-07-01,2015-08-10
+
+10.Sunil Bawane
+-----------Education----------------
+Indian Institute of Technology, Madras,,
+---------- Past Companies-----------
+Jacobs Engineering, Singapore,2006-07-01,2012-06-06
+-----------Current Companies-------
+LANXESS,2012-06-01,2015-08-10
+
+11.suneel kommireddy
+-----------Education----------------
+NBKR Institute of Science and Technology,B.Tech, Civil Engineering,1996 – 2000
+---------- Past Companies-----------
+-----------Current Companies-------
+Fidelity Investments,2007-07-01,2015-08-10
+
+12.Sumant Kowshik
+-----------Education----------------
+Indian Institute of Technology, Madras,,1995 – 1999
+---------- Past Companies-----------
+-----------Current Companies-------
+Personify Inc,2010-08-01,2015-08-10
+
+13.Sujay Prasad Srivastava
+-----------Education----------------
+The Mother's International School,,
+---------- Past Companies-----------
+Columbia University,2011-07-01,2012-12-01
+BlackRock, Risk and Quantitative Analysis (Fixed Income),2012-06-01,2012-08-03
+Vision Finance BVI, Emerging Markets Brokerage House,2011-01-01,2011-06-06
+Vision Finance BVI, Emerging Markets Brokerage House,2011-01-01,2011-06-06
+Indian Institute of Technology (IIT), Madras,2006-08-01,2011-06-04
+-----------Current Companies-------
+Trexquant (Statistical Arbitrage Equity Fund),2013-01-01,2015-08-10
+
+14.Suhas Mathur
+-----------Education----------------
+New York University,,2011 – 2019
+---------- Past Companies-----------
+AT&T Labs, Inc.,2010-08-01,2014-01-03
+-----------Current Companies-------
+Systematic investment management firm,2014-02-01,2015-08-10
+
+15.Sudheer Chunduri
+-----------Education----------------
+Bapatla Engineering College,Bachelor's degree, Chemical Engineering,2002 – 2006
+---------- Past Companies-----------
+SanDisk,2012-03-01,2013-04-01
+SanDisk,2008-10-01,2012-02-03
+-----------Current Companies-------
+SanDisk,2014-08-01,2015-08-10
+SanDisk,2013-04-01,2015-08-10
+
+16.Sudhakar Tummala
+-----------Education----------------
+Acharya Nagarjuna University,,2002 – 2006
+---------- Past Companies-----------
+-----------Current Companies-------
+
+17.Sudha Vankadara
+-----------Education----------------
+Gautam High School,S.S.C,1993 – 1998
+---------- Past Companies-----------
+Macys,2012-02-01,2014-04-02
+Goldman Sachs,2011-06-01,2011-11-06
+Morgan Stanley,2010-01-01,2011-05-01
+-----------Current Companies-------
+Lending Club,2014-05-01,2015-08-10
+
+18.Sudeep Ramachandran
+-----------Education----------------
+Indian Institute of Technology, Madras,,
+---------- Past Companies-----------
+KBR / Granherne,2006-08-01,2013-04-06
+-----------Current Companies-------
+Dmar Engineering Inc,2013-05-01,2015-08-10
+
+19.Subrata Mal
+-----------Education----------------
+University of Calcutta,,
+---------- Past Companies-----------
+-----------Current Companies-------
+Kent State University,2009-01-01,2015-08-10
+
+20.Subrahmanyam Duvvuri
+-----------Education----------------
+Indian Institute of Technology, Madras,,2006 – 2010
+---------- Past Companies-----------
+-----------Current Companies-------
+Caltech,2011-06-01,2015-08-10
+
+21.Subhadeep Mitra
+-----------Education----------------
+Nanyang Technological University,,2009 – 2009
+---------- Past Companies-----------
+Dimensional Fund Advisors,2014-04-01,2015-03-01
+Citi,2012-07-01,2014-04-01
+MIT,2010-08-01,2012-08-02
+Citi,2011-06-01,2011-08-03
+-----------Current Companies-------
+1010data,2015-03-01,2015-08-10
+
+22.Subbu Venkatraman
+-----------Education----------------
+Carnegie Mellon University,,1977 – 1981
+---------- Past Companies-----------
+-----------Current Companies-------
+NTU-Northwestern Nanomedicine Institute,2014-01-01,2015-08-10
+Nanyang Technological University,2000-06-01,2015-08-15
+
+23.Sriramya Nair
+-----------Education----------------
+Siva Sivani Public School,,1988 – 1999
+---------- Past Companies-----------
+The University of Texas at Austin,2009-08-01,2013-08-04
+The University of Texas at Austin,2009-08-01,2012-12-03
+-----------Current Companies-------
+
+24.Sriram Vanama
+-----------Education----------------
+IIT Madras,,
+---------- Past Companies-----------
+-----------Current Companies-------
+Nomura Securities,2010-04-01,2015-08-10
+
+25.Sriram Trikutam
+-----------Education----------------
+Indian Institute of Technology, Madras,,2006 – 2010
+---------- Past Companies-----------
+-----------Current Companies-------
+Deutsche Bank,2010-06-01,2015-08-10
+
+26.Sriram Kalyanaraman
+-----------Education----------------
+Indian Institute of Technology, Madras,,2003 – 2007
+---------- Past Companies-----------
+-----------Current Companies-------
+
+27.Sriram Chandrasekaran
+-----------Education----------------
+Level 2 CFA Candidate,,
+---------- Past Companies-----------
+Hewlett Packard,2009-03-01,2011-01-01
+-----------Current Companies-------
+McKinsey & Company,2011-01-01,2015-08-10
+McKinsey & Company,2011-01-01,2015-08-10
+
+28.Srinivasan Mani
+-----------Education----------------
+University of Madras,,1997 – 2001
+---------- Past Companies-----------
+Wipro Technologies,2011-01-01,2013-02-02
+Wipro Technologies,2011-01-01,2013-02-02
+-----------Current Companies-------
+Wipro,2013-03-01,2015-08-10
+
+29.Srinivasan Balakrishnan
+-----------Education----------------
+Chinmaya Vidyalaya,AISSCE, Science,1990 – 1996
+---------- Past Companies-----------
+IBM Research - Almaden,2012-01-01,2014-08-02
+IBM - TJ Watson Research Center,2011-01-01,2011-12-01
+IBM - TJ Watson Research Center,2011-01-01,2011-12-01
+-----------Current Companies-------
+Avogy Inc.,2014-08-01,2015-08-10
+
+30.Srinivasa Nadukuru
+-----------Education----------------
+Indian Institute of Technology, Madras,,2003 – 2007
+---------- Past Companies-----------
+University of Michigan, Ann Arbor,2007-08-01,2013-08-06
+-----------Current Companies-------
+
+31.Srinivas Prasad Bengaluru Subramanyam
+-----------Education----------------
+Indian Institute of Technology, Madras,,2007 – 2011
+---------- Past Companies-----------
+-----------Current Companies-------
+3M,2015-06-01,2015-08-10
+
+32.Gunturu Srinivas
+-----------Education----------------
+Jawaharlal Nehru Technological University,,
+---------- Past Companies-----------
+-----------Current Companies-------
+Bloomberg,2007-08-01,2015-08-10
+
+33.Srinivas Gollamandala
+-----------Education----------------
+Osmania University, Hyderabad,,M.Sc, Material Science,2000 – 2002
+---------- Past Companies-----------
+-----------Current Companies-------
+Western Digital,2005-02-01,2015-08-10
+
+34.Srikanth Gollapudi
+-----------Education----------------
+Indian Institute of Technology, Madras,,2000 – 2002
+---------- Past Companies-----------
+AMD,2011-04-01,2014-06-03
+Quartics Inc.,,2009-10-01,2011-04-01
+-----------Current Companies-------
+AMD,2014-07-01,2015-08-10
+
+35.Srikant Jayanti
+-----------Education----------------
+St. Vincent's Convent School,,1991 – 2001
+---------- Past Companies-----------
+North Carolina State University,2007-08-01,2011-12-04
+-----------Current Companies-------
+Intel Corporation,2012-02-01,2015-08-10
+
+36.Srikant Ravirala
+-----------Education----------------
+Indian Institute of Technology, Madras,,2003 – 2008
+---------- Past Companies-----------
+Travelocity,2013-04-01,2014-01-10
+Travelocity,2012-06-01,2013-03-10
+Travelocity,2008-06-01,2012-05-04
+-----------Current Companies-------
+Travelocity,2014-01-01,2015-08-10
+
+37.Sri Madabhushi
+-----------Education----------------
+Indian Institute of Technology, Madras,,2002 – 2006
+---------- Past Companies-----------
+-----------Current Companies-------
+
+38.Dr Sreenivasa Rao Gubba
+-----------Education----------------
+Sri Venkateswara Government Polytechnic, Tirupati, India,Diploma, Mechanical Engineering,1991 – 1995
+---------- Past Companies-----------
+Manchester Metropoliton University,2011-09-01,2012-04-08
+University of Leeds,2009-02-01,2011-08-02
+-----------Current Companies-------
+GE Global Research,2012-04-01,2015-08-10
+Finding employees with start dates after 1-1-2011
+
+0.Sreedhar Pratty
+-----------Education----------------
+Indian Institute of Technology, Madras,,2001 – 2006
+---------- Past Companies-----------
+NVIDIA,2010-04-01,2011-11-01
+-----------Current Companies-------
+NVIDIA,2011-07-01,2015-08-03
+
+1.Sravanthi Puligilla
+-----------Education----------------
+Indian Institute of Technology, Madras,,2005 – 2009
+---------- Past Companies-----------
+University of Illinois at Urbana-Champaign,2012-08-01,2012-12-05
+University of Illinois at Urbana-Champaign,2009-08-01,2011-12-02
+-----------Current Companies-------
+
+2.Someshwar Rao
+-----------Education----------------
+IIT Madras,B.Tech, Mechanical Engg,2003 – 2007
+---------- Past Companies-----------
+Irevna,2011-12-01,2014-04-02
+Aditya Birla Minacs IT Services Ltd,2008-10-01,2011-11-03
+-----------Current Companies-------
+
+3.Smarajit Mukherjee
+-----------Education----------------
+Delhi Public School,,
+---------- Past Companies-----------
+The Ohio State University,2011-10-01,2012-12-01
+Indian Institute of Science,2010-05-01,2011-07-01
+-----------Current Companies-------
+The Ohio State University Center for Automotive Research,2012-05-01,2015-08-03
+
+4.Sivasankar Radhakrishnan
+-----------Education----------------
+IIT Madras,,2004 – 2008
+---------- Past Companies-----------
+UC San Diego,2008-09-01,2014-03-05
+Google,2010-06-01,2011-07-01
+-----------Current Companies-------
+Forward Networks,2014-01-01,2015-08-03
+
+5.Sivaraman Ramaswamy
+-----------Education----------------
+D.B.M.S. English School,,1995 – 2006
+---------- Past Companies-----------
+Massachusetts Institute of Technology (MIT),2014-09-01,2014-12-04
+Massachusetts Institute of Technology (MIT),2013-09-01,2013-12-04
+Cabot Corporation,2011-08-01,2011-08-01
+Novartis,2011-06-01,2011-07-02
+-----------Current Companies-------
+Praxair,2015-07-01,2015-08-03
+
+6.Sivaram Kilari
+-----------Education----------------
+Indian Institute of Technology, Madras,,2000 – 2002
+---------- Past Companies-----------
+-----------Current Companies-------
+
+7.Siva Theja Maguluri
+-----------Education----------------
+Indian Institute of Technology, Madras,,2004 – 2008
+---------- Past Companies-----------
+IBM TJ Watson Research Center,2014-11-01,2015-07-09
+University of Illinois at Urbana-Champaign,2008-08-01,2014-10-06
+University of Illinois at Urbana-Champaign,2013-01-01,2013-12-01
+Qualcomm,2010-09-01,2011-01-05
+-----------Current Companies-------
+IBM T. J. Watson Research Center,2015-07-01,2015-08-03
+
+8.Naga Sirisha Parimi
+-----------Education----------------
+Indian Institute of Technology, Madras,,2005 – 2010
+---------- Past Companies-----------
+-----------Current Companies-------
+
+9.Siddhika Bondre
+-----------Education----------------
+Indian Institute of Technology, Madras,,2003 – 2007
+---------- Past Companies-----------
+Agamya Capital,2013-02-01,2014-04-01
+McNally Capital,2011-06-01,2012-03-10
+-----------Current Companies-------
+General Motors,2014-05-01,2015-08-03
+
+10.Siddharth Maddali
+-----------Education----------------
+Kendriya Vidyalaya,,
+---------- Past Companies-----------
+Carnegie Mellon University,2009-08-01,2012-05-02
+-----------Current Companies-------
+Carnegie Mellon University,2012-06-01,2015-08-03
+
+11.Siddharth Garg
+-----------Education----------------
+Dps rk puram,,
+---------- Past Companies-----------
+-----------Current Companies-------
+
+12.Siddesh Karra
+-----------Education----------------
+Indian Institute of Technology, Madras,,2003 – 2007
+---------- Past Companies-----------
+Bank of America Merrill Lynch,2013-02-01,2013-12-11
+Bank of America Merrill Lynch,2010-10-01,2013-01-02
+-----------Current Companies-------
+Bank of America Merrill Lynch,2014-01-01,2015-08-03
+
+13.Shreyas Honrao
+-----------Education----------------
+Indian Institute of Technology, Madras,,2007 – 2011
+---------- Past Companies-----------
+Cornell University,2012-08-01,2012-12-05
+-----------Current Companies-------
+
+14.Shrey Ginoria
+-----------Education----------------
+Indian Institute of Technology, Madras,,2004 – 2009
+---------- Past Companies-----------
+Amazon,2014-01-01,2014-08-08
+Royal Bank of Scotland,2011-08-01,2014-01-02
+-----------Current Companies-------
+Royal Bank of Scotland,2014-01-01,2015-08-03
+
+15.Shiva Chaitanya
+-----------Education----------------
+Indian Institute of Technology, Madras,,1999 – 2003
+---------- Past Companies-----------
+NetApp,2009-07-01,2012-12-03
+-----------Current Companies-------
+NetApp,2013-01-01,2015-08-03
+
+16.Shibnath Pathak
+-----------Education----------------
+Universiteit Gent,,2009 – 2013
+---------- Past Companies-----------
+UGent,2009-11-01,2013-12-04
+-----------Current Companies-------
+UC Davis,2014-01-01,2015-08-03
+
+17.Shashi Raghunandan
+-----------Education----------------
+Indian Institute of Technology, Madras,,1996 – 2000
+---------- Past Companies-----------
+JP Morgan Chase,2010-03-01,2012-01-01
+-----------Current Companies-------
+MasterCard,2012-01-01,2015-08-03
+
+18.Shashank Sashihithlu
+-----------Education----------------
+Indian Institute of Technology, Madras,,2006 – 2010
+---------- Past Companies-----------
+AOL,2011-06-01,2011-09-04
+-----------Current Companies-------
+Consolidated Trading,2012-08-01,2015-08-03
+
+19.Shashank Gadda
+-----------Education----------------
+Indian Institute of Technology, Madras,,2000 – 2004
+---------- Past Companies-----------
+HSBC,2012-07-01,2013-05-11
+HSBC Bank USA,2010-07-01,2012-06-02
+-----------Current Companies-------
+JPMorgan Chase,2013-06-01,2015-08-03
+
+20.sharath Giri
+-----------Education----------------
+St. Joseph's Public School,Tenth Standard,1991 – 2003
+---------- Past Companies-----------
+Etihad Airways,2013-12-01,2014-12-01
+Etihad Airways,2012-03-01,2013-11-01
+Etihad Airways,2011-07-01,2012-02-08
+-----------Current Companies-------
+Etihad Airways,2014-12-01,2015-08-03
+
+21.C Sharat Chandran
+-----------Education----------------
+Indian Institute of Technology, Madras,,1998 – 2002
+---------- Past Companies-----------
+Deutsche Bank,2010-07-01,2012-12-02
+-----------Current Companies-------
+Deutsche Bank,2013-01-01,2015-08-03
+
+22.Shairali Rao
+-----------Education----------------
+Sharjah Indian School,,
+---------- Past Companies-----------
+Globus Medical,2013-01-01,2013-04-04
+Globus Medical,2011-01-01,2012-12-02
+Globus Medical,2011-01-01,2012-12-02
+-----------Current Companies-------
+Integra LifeSciences,2013-05-01,2015-08-03
+
+23.Shafnas Siddiq
+-----------Education----------------
+Indian School Bahrain,High School,1997
+---------- Past Companies-----------
+-----------Current Companies-------
+
+24.Seshadri Guha
+-----------Education----------------
+Kendriya Vidyalaya,,
+---------- Past Companies-----------
+-----------Current Companies-------
+CGN & Associates,1995-09-01,2015-08-20
+
+25.Dr. Senthilkumar Venkatachalam
+-----------Education----------------
+Indian Institute Of Technology,,2005 – 2009
+---------- Past Companies-----------
+-----------Current Companies-------
+University of the Witwatersrand,2012-10-01,2015-08-11
+
+26.Savitha Sridharan
+-----------Education----------------
+Bishop Cottons' Public High School, Bangalore,ISC (10 + 2),1995 – 1997
+---------- Past Companies-----------
+-----------Current Companies-------
+Orora Global, Inc.,2014-06-01,2015-08-03
+
+27.Saurabh Paliwal
+-----------Education----------------
+Indian Institute of Technology, Madras,,1997 – 2001
+---------- Past Companies-----------
+The Johns Hopkins University,2010-01-01,2011-03-01
+-----------Current Companies-------
+GenapSys,2013-06-01,2015-08-03
+Euveda Biosciences,2011-04-01,2015-03-01
+
+28.Saurabh Mathur
+-----------Education----------------
+Abo Akademi University, Turku, Finland,Summer Internship, Paper Coating,2007 – 2007
+---------- Past Companies-----------
+GLOBALFOUNDRIES,2008-08-01,2011-06-02
+-----------Current Companies-------
+Procter & Gamble,2011-07-01,2015-08-03
+
+29.Sarath Ketineni
+-----------Education----------------
+Indian Institute of Technology, Madras,,2004 – 2008
+---------- Past Companies-----------
+BP,2014-05-01,2014-08-01
+BP,2013-05-01,2013-08-01
+BP,2012-05-01,2012-08-01
+-----------Current Companies-------
+Pennsylvania state university,2010-08-01,2015-08-03
+
+30.Sandeep Singh
+-----------Education----------------
+University of Lucknow,,2000 – 2003
+---------- Past Companies-----------
+Infosys,2011-07-01,2013-09-02
+Infosys Technologies Ltd,2009-10-01,2011-06-01
+-----------Current Companies-------
+Infosys,2013-10-01,2015-08-11
+
+31.Sandeep Chilukuri
+-----------Education----------------
+Indian Institute of Technology, Madras,,2005 – 2009
+---------- Past Companies-----------
+Rensselaer Polytechnic Institute,2009-08-01,2014-08-05
+Rensselaer Polytechnic Institute,2013-08-01,2013-12-05
+-----------Current Companies-------
+
+32.Satyan Choudhary
+-----------Education----------------
+University of Massachusetts, Amherst,,2013
+---------- Past Companies-----------
+Teijin Aramid,2011-10-01,2013-08-01
+Teijin Aramid,2010-09-01,2011-07-11
+-----------Current Companies-------
+
+33.Satya N.S. Behara
+-----------Education----------------
+---------- Past Companies-----------
+Smith & Nephew,2011-06-01,2013-03-01
+Smith & Nephew,2010-06-01,2011-06-01
+-----------Current Companies-------
+
+34.Satish Vedantam
+-----------Education----------------
+Indian Institute of Technology, Madras,,1997 – 2001
+---------- Past Companies-----------
+-----------Current Companies-------
+Bloomberg,2009-05-01,2015-08-03
+
+35.Sateesh Pragallapati
+-----------Education----------------
+Jawaharlal Nehru Technological University,,2002 – 2005
+---------- Past Companies-----------
+Microsoft,2010-12-01,2012-03-01
+-----------Current Companies-------
+Microsoft,2014-10-01,2015-08-11
+Microsoft,2012-03-01,2015-08-03
+
+36.Sasikiran M
+-----------Education----------------
+Indian Institute of Technology, Madras,,2003 – 2007
+---------- Past Companies-----------
+IBM,2011-09-01,2011-12-04
+StubHub,2011-05-01,2011-08-04
+Adobe Systems,2011-01-01,2011-05-05
+Adobe Systems,2011-01-01,2011-05-05
+-----------Current Companies-------
+Ebay,2011-12-01,2015-08-03
+
+37.SARVANI PIRATLA
+-----------Education----------------
+Indian Institute of Technology, Madras,,2003 – 2007
+---------- Past Companies-----------
+Cornell University,2014-07-01,2014-11-05
+Cornell University,2013-08-01,2014-07-01
+Cornell University,2009-08-01,2013-07-04
+-----------Current Companies-------
+Intel Corporation,2014-11-01,2015-08-10
+
+38.SARAT CHANDRA CAUTHA
+-----------Education----------------
+IIT Madras,,2005 – 2009
+---------- Past Companies-----------
+University of Toronto,2009-09-01,2012-01-02
+-----------Current Companies-------
+
+39.Sapna Shekhar
+-----------Education----------------
+Miranda House College,Bachelor of Science (B.S.), Physics,2006 – 2009
+---------- Past Companies-----------
+-----------Current Companies-------
+
+40.Santosh Shanbhogue
+-----------Education----------------
+Indian Institute of Technology, Madras,,1999 – 2003
+---------- Past Companies-----------
+-----------Current Companies-------
+
+41.Santhosh Neela
+-----------Education----------------
+Indian Institute of Technology, Madras,,2006 – 2011
+---------- Past Companies-----------
+RFID PASS,2013-03-01,2013-04-02
+University of Florida,2012-11-01,2012-12-02
+University of Florida,2012-08-01,2012-12-05
+University of Florida,2012-02-01,2012-12-11
+University of Florida,2012-03-01,2012-04-02
+Indian Institute of Technology, Madras,2010-08-01,2011-05-10
+-----------Current Companies-------
+Cimation,2013-05-01,2015-08-03
+
+42.Santosh Baireddy
+-----------Education----------------
+Indian Institute of Technology, Madras,,2000 – 2005
+---------- Past Companies-----------
+-----------Current Companies-------
+Oracle,2010-10-01,2015-08-11
+
+43.Santosh Appathurai
+-----------Education----------------
+Indian Institute of Technology, Madras,,2003 – 2007
+---------- Past Companies-----------
+Chevron,2012-06-01,2014-09-02
+Chevron,2011-09-01,2011-12-01
+-----------Current Companies-------
+
+44.Sanjith Kumar
+-----------Education----------------
+Indian Institute of Technology, Madras,,1997 – 2001
+---------- Past Companies-----------
+Amazon EU Sarl,2012-06-01,2014-01-01
+-----------Current Companies-------
+Naspers Group,2014-02-01,2015-08-03
+
+45.Sandip Mahanta
+-----------Education----------------
+IIT Madras,,2004 – 2006
+---------- Past Companies-----------
+Bupa,2012-10-01,2014-04-01
+Virgin Money,2012-06-01,2012-10-05
+Tesco Bank,2011-06-01,2012-05-01
+Lloyds TSB,2008-06-01,2011-05-03
+Cognizant Technology Solutions,2006-08-01,2011-05-04
+-----------Current Companies-------
+Transport for London,2014-05-01,2015-08-03
+
+46.Sandeep Tiwari
+-----------Education----------------
+St Anselm's School Ajmer,,
+---------- Past Companies-----------
+Oracle,2012-09-01,2013-11-01
+Oracle,2011-02-01,2012-09-01
+-----------Current Companies-------
+Facebook,2013-11-01,2015-08-10
+
+47.Sandeep Muddam
+-----------Education----------------
+Indian Institute of Technology, Madras,,2009 – 2011
+---------- Past Companies-----------
+National Bank of Abu Dhabi,2012-06-01,2012-08-03
+Indian Institute of Technology, Madras,2010-03-01,2011-05-01
+-----------Current Companies-------
+Polaris Financial Technology Limited,2011-08-01,2015-08-03
+
+48.Samyukta Sethuraman
+-----------Education----------------
+Indian Institute of Technology, Madras,,2005 – 2009
+---------- Past Companies-----------
+Texas A&M University,2009-09-01,2013-05-03
+-----------Current Companies-------
+Texas A&M University,2013-06-01,2015-08-03
+
+49.Sampath Srinath
+-----------Education----------------
+Indian Institute of Technology, Madras,,1972 – 1977
+---------- Past Companies-----------
+-----------Current Companies-------
+SI Design and Consulting Inc,2012-10-01,2015-08-11
+
+50.Sampath Kommandur
+-----------Education----------------
+Indian Institute of Technology, Madras,,2007 – 2011
+---------- Past Companies-----------
+-----------Current Companies-------
+Georgia Institute of Technology,2012-01-01,2015-08-03
+
+51.Samir Ghosh
+-----------Education----------------
+Universiteit Gent,,2008 – 2010
+---------- Past Companies-----------
+McGill University,2013-09-01,2014-08-01
+Ghent University,2008-12-01,2013-08-04
+-----------Current Companies-------
+
+52.Samidh Pareek
+-----------Education----------------
+Indian Institute of Technology, Madras,,2004 – 2008
+---------- Past Companies-----------
+HSBC,2013-10-01,2014-12-01
+Capital One,2012-05-01,2013-03-11
+HSBC,2011-11-01,2012-05-07
+HSBC,2010-11-01,2011-10-01
+-----------Current Companies-------
+
+53.Samanwita Pal
+-----------Education----------------
+Jadavpur University,,1999 – 2002
+---------- Past Companies-----------
+Biozentrum,,2010-07-01,2012-03-01
+-----------Current Companies-------
+Indian Institute of Technology, Jodhpur,2012-12-01,2015-08-03
+
+54.Sailesh B. Athreya
+-----------Education----------------
+PSBB,,1984 – 1986
+---------- Past Companies-----------
+Illinois Tool Works,2010-01-01,2012-02-02
+-----------Current Companies-------
+Honeywell Aerospace,2012-02-01,2015-08-03
+
+55.Sagar Udavat
+-----------Education----------------
+State Board Nagpur,B, Tech Civil Engineering,1997 – 1999
+---------- Past Companies-----------
+Citi,2011-10-01,2013-09-02
+Nomura Financial Services,2009-09-01,2011-10-02
+-----------Current Companies-------
+Goldman Sachs,2013-10-01,2015-08-11
+
+56.Saamaja Vupputuri
+-----------Education----------------
+Jawaharlal Nehru Technological University College of Engineering (JNTUCEH), Hyderabad,Bachelor of Technology (B.Tech), Computer Science and Engineering,
+---------- Past Companies-----------
+-----------Current Companies-------
+
+57.Rohit Gandrakota
+-----------Education----------------
+Indian Institute of Technology, Madras,,2004 – 2008
+---------- Past Companies-----------
+SanDisk,2015-01-01,2015-06-06
+SanDisk,2011-06-01,2014-12-03
+Terra Technology,2010-11-01,2011-06-08
+-----------Current Companies-------
+SanDisk,2015-06-01,2015-08-03
+
+58.Rohit Bhat
+-----------Education----------------
+Indian Institute of Technology, Madras,,2002 – 2006
+---------- Past Companies-----------
+-----------Current Companies-------
+Sequoia Capital,2012-06-01,2015-08-03
+
+59.Rohit Acharya
+-----------Education----------------
+D A V Public School,,
+---------- Past Companies-----------
+Expedia,2011-02-01,2013-04-02
+-----------Current Companies-------
+Skyscanner,2014-12-01,2015-08-03
+Hacker Initiative,2013-05-01,2015-08-03
+
+60.Ritesh Ranjan
+-----------Education----------------
+Delhi Public School, Ranchi,,
+---------- Past Companies-----------
+Walmart eCommerce,2012-11-01,2013-06-08
+-----------Current Companies-------
+Walmart eCommerce,2013-08-01,2015-08-03
+
+61.Rishikesh Narayan
+-----------Education----------------
+Sainik School Tilaiya, Jharkhand, India,Senior Secondary, Science,1996 – 2002
+---------- Past Companies-----------
+WWU Münster, Germany,2008-10-01,2012-01-03
+-----------Current Companies-------
+Max-Planck Institute for Molecular Physiology, Dortmund, Germany,2012-07-01,2015-08-03
+
+62.REVELLA RAMESH
+-----------Education----------------
+Jawaharlal Nehru Technological University,,2002 – 2006
+---------- Past Companies-----------
+DNV GL,2013-07-01,2014-05-11
+DNV GL - Oil & Gas (formerly GL Noble Denton),2008-10-01,2013-07-04
+-----------Current Companies-------
+Tebodin,2014-05-01,2015-08-03
+
+63.Rekha Patil
+-----------Education----------------
+Indian Institute of Technology, Madras,,1998 – 2002
+---------- Past Companies-----------
+IG,2014-09-01,2015-02-06
+Adobe,2011-02-01,2014-07-03
+Efficient Frontier,2008-10-01,2011-01-02
+-----------Current Companies-------
+Paragon Digital Services Pvt Ltd,2015-05-01,2015-08-03
+Mindshare,2015-02-01,2015-08-03
+
+64.Rayees Ahamed Imam
+-----------Education----------------
+Indian Institute of Technology, Madras,,2004 – 2006
+---------- Past Companies-----------
+SABIC,2013-11-01,2014-08-10
+Max Planck Institute for Dynamics of Complex Technical System,2007-04-01,2012-10-05
+Max Planck Institute for Dynamics of Complex Technical System,2007-04-01,2012-03-05
+-----------Current Companies-------
+
+65.Raviteja Vemulapalli
+-----------Education----------------
+Indian Institute of Technology, Madras,,2005 – 2009
+---------- Past Companies-----------
+University of Maryland, College Park,2013-09-01,2013-12-04
+Cisco Systems,2010-11-01,2011-07-09
+-----------Current Companies-------
+University of Maryland, College Park,2011-08-01,2015-03-01
+
+66.Ravinder Yadav
+-----------Education----------------
+University of Pune,,
+---------- Past Companies-----------
+Pershing LLC,2008-01-01,2011-03-03
+-----------Current Companies-------
+Bank of America Merrill Lynch,2011-03-01,2015-08-03
+
+67.Ravi Gorti
+-----------Education----------------
+Indian Institute of Technology, Madras,,
+---------- Past Companies-----------
+Travelers,2009-06-01,2012-07-03
+-----------Current Companies-------
+MAPFRE Insurance,2012-08-01,2015-08-03
+
+68.Ravi Garg
+-----------Education----------------
+Indian Institute of Technology, Madras,,2004 – 2008
+---------- Past Companies-----------
+University of Maryland,2008-08-01,2013-08-05
+Mitsubishi Electric Research Labs,2012-05-01,2012-08-04
+-----------Current Companies-------
+Intel Corporation,2013-10-01,2015-08-11
+
+69.Ravi Darda
+-----------Education----------------
+---------- Past Companies-----------
+-----------Current Companies-------
+
+70.Hilaal Alam
+-----------Education----------------
+R. V. College of Engineering, Bangalore,,1991 – 1995
+---------- Past Companies-----------
+-----------Current Companies-------
+Qtech Nanosystems Pte Ltd., Singapore,2007-01-01,2015-08-03
+Qtech Solutions,2000-01-01,2015-08-15
+
+71.Ravindra Chawla
+-----------Education----------------
+St Theresa's High School,SSC,1968 – 1979
+---------- Past Companies-----------
+Tech Mahindra (formerly Mahindra Satyam),2010-04-01,2014-08-04
+-----------Current Companies-------
+
+72.Pranava Boyidapu
+-----------Education----------------
+---------- Past Companies-----------
+-----------Current Companies-------
+Royal Bank of Scotland,2011-08-01,2015-08-03
+Slisha Crazy,2006-06-01,2015-08-03
+
+73.Ravi Chandra Kyasa
+-----------Education----------------
+Shathavahana High School, Huzurabad,SSC,1993 – 2004
+---------- Past Companies-----------
+CATERPILLAR INDIA,2011-10-01,2015-01-03
+Reliance Industries Ltd,2010-07-01,2011-10-01
+-----------Current Companies-------
+Etihad Airways,2015-01-01,2015-08-03
+
+74.Ratan Singh
+-----------Education----------------
+PCVN,,
+---------- Past Companies-----------
+Intel Corporation,2012-05-01,2013-05-01
+Intel,2011-06-01,2012-05-01
+Purdue University,2009-08-01,2011-06-01
+-----------Current Companies-------
+Apple,2013-06-01,2015-08-03
+
+75.Raquibul Alam
+-----------Education----------------
+The University of Western Ontario,,2009 – 2011
+---------- Past Companies-----------
+-----------Current Companies-------
+University of Western Ontario,2009-01-01,2015-08-03
+
+76.Ramya Pasumarti
+-----------Education----------------
+Indian Institute of Technology, Madras,,2004 – 2008
+---------- Past Companies-----------
+Intel Corporation,2010-09-01,2012-09-02
+-----------Current Companies-------
+
+77.Ramgopal Mahadevan
+-----------Education----------------
+Indian Institute of Technology, Madras,,1998 – 2002
+---------- Past Companies-----------
+Burger King Corporation,2013-10-01,2014-05-08
+UCS Solutions,2011-01-01,2013-06-02
+UCS Solutions,2011-01-01,2013-06-02
+Beyond Analysis,2011-06-01,2011-10-05
+Philip Morris International,2009-10-01,2011-01-01
+-----------Current Companies-------
+
+78.Ramarao Kanneganti
+-----------Education----------------
+APRS Tadikonda,High school, 4 languages, Math, Physics, Chemistry, Biology, Social sciences,1977 – 1980
+---------- Past Companies-----------
+HCL Technologies,2008-09-01,2011-01-02
+-----------Current Companies-------
+HCL,2010-10-01,2015-08-11
+
+79.Ramakrishna Padmanabhan
+-----------Education----------------
+Shanmugha Arts, Science, Technology and Research Academy,Bachelor of Technology, Computer Science and Engineering,2005 – 2009
+---------- Past Companies-----------
+University of Maryland,2011-08-01,2012-05-10
+IIT Madras,2009-11-01,2011-07-01
+-----------Current Companies-------
+University of Maryland,2012-05-01,2015-08-03
+
+80.Ram Narasimhan
+-----------Education----------------
+University of California, Santa Cruz,,
+---------- Past Companies-----------
+End-to-End Analytics,2012-07-01,2012-11-05
+Kavi Associates,2010-08-01,2012-02-01
+-----------Current Companies-------
+GE Global Research,2012-11-01,2015-08-10
+
+81.Rakesh Vemulapally
+-----------Education----------------
+Indian Institute of Technology, Madras,,2000 – 2004
+---------- Past Companies-----------
+Visa,2013-05-01,2014-12-01
+Progreso Financiero,2013-02-01,2013-05-04
+Progreso Financiero,2011-11-01,2013-02-01
+Capital One Auto Finance,2010-07-01,2011-11-01
+-----------Current Companies-------
+Community Investment Management LLC,2014-12-01,2015-08-03
+
+82.Rakesh Malladi
+-----------Education----------------
+Indian Institute of Technology, Madras,,2006 – 2011
+---------- Past Companies-----------
+-----------Current Companies-------
+Cyberonics,2015-05-01,2015-08-03
+Rice University,2011-08-01,2015-08-03
+
+83.Raghu Nandan Srinivasan
+-----------Education----------------
+Kendriya Vidyalaya,,1999 – 2004
+---------- Past Companies-----------
+Entropic Communications,2013-10-01,2014-06-09
+Oregon State University,2010-09-01,2013-06-02
+NVIDIA,2012-06-01,2013-02-09
+National Semiconductor,2011-06-01,2011-09-04
+-----------Current Companies-------
+Micron Technology,2014-06-01,2015-08-03
+
+84.Raghuram (Raghu) Thiagarajan
+-----------Education----------------
+---------- Past Companies-----------
+-----------Current Companies-------
+Pratt & Miller Engineering,2015-06-01,2015-08-03
+
+85.Rajesh Gandham
+-----------Education----------------
+Indian Institute of Technology, Madras,,2005 – 2010
+---------- Past Companies-----------
+Rice University,2010-08-01,2015-05-04
+Hess Corporation,2014-05-01,2014-08-01
+Stone Ridge Technology,2013-05-01,2013-08-04
+HyPerComp,2012-05-01,2012-08-04
+-----------Current Companies-------
+
+86.Rajeev Ravi
+-----------Education----------------
+Indian Institute of Technology, Madras,,1999 – 2003
+---------- Past Companies-----------
+Procter & Gamble,2013-04-01,2014-10-01
+Procter & Gamble,2012-07-01,2013-03-09
+Procter & Gamble,2012-04-01,2012-06-03
+Procter & Gamble,2009-03-01,2012-03-03
+-----------Current Companies-------
+Procter & Gamble,2014-11-01,2015-08-10
+
+87.Rajeesh Ravindran
+-----------Education----------------
+Indian Institute of Technology, Madras,,2008 – 2010
+---------- Past Companies-----------
+Meritor,2010-07-01,2012-01-01
+-----------Current Companies-------
+NSK,2012-02-01,2015-08-03
+
+88.Raja Sundararajan
+-----------Education----------------
+Indian Institute of Technology, Madras,,1992 – 1996
+---------- Past Companies-----------
+American Electric Power,2010-04-01,2013-03-03
+-----------Current Companies-------
+American Electric Power,2012-05-01,2015-08-03
+
+89.Rahul Singh
+-----------Education----------------
+La Martiniere for Boys, Kolkata,High School, Science, Mathematics, Computers,1995 – 1997
+---------- Past Companies-----------
+Deutsche Bank,2014-05-01,2015-04-01
+AXA Investment Managers,2012-01-01,2014-03-02
+Connect Plus,2009-02-01,2012-01-03
+-----------Current Companies-------
+Bank of Ireland,2015-04-01,2015-08-03
+Connect Plus,2014-03-01,2015-08-03
+
+90.Rahul Rajendran
+-----------Education----------------
+REC,,
+---------- Past Companies-----------
+-----------Current Companies-------
+
+91.Rahul Damodar
+-----------Education----------------
+K.E.S. N.N. Patil Enginneering college - Pen, India (Mumbai University),BE, chemical engineering,2002
+---------- Past Companies-----------
+Bio-environmental Laboratory, and R&D Center for Membrane Technology, Taiwan ROC.,2008-11-01,2011-07-02
+-----------Current Companies-------
+
+92.Raghuvir Reddy
+-----------Education----------------
+Narayana Junior college,,
+---------- Past Companies-----------
+KPMG India,2011-01-01,2011-01-01
+KPMG India,2011-01-01,2011-01-01
+-----------Current Companies-------
+
+93.Raghuraj Hathwar
+-----------Education----------------
+Indian Institute of Technology, Madras,,2005 – 2009
+---------- Past Companies-----------
+-----------Current Companies-------
+
+94.Raghu Rao
+-----------Education----------------
+Ramakrishna Mission Boys' School, Chennai,S.S.L.C,1967 – 1978
+---------- Past Companies-----------
+Ingboo,2009-08-01,2012-06-02
+INADEV Corporation,2010-07-01,2011-06-01
+-----------Current Companies-------
+Vistage International,2012-07-01,2015-08-03
+The Paper Battery Co,2009-01-01,2015-08-03
+WizNucleus,2010-06-01,2015-08-03
+Partners of White Oak,2010-01-01,2015-08-03
+Granite Financial Advisors,2010-07-01,2015-08-03
+Infinity Foundation,2010-01-01,2015-08-03
+eSeva,2008-08-01,2015-08-03
+Forum for Religious Freedom,2007-03-01,2015-08-03
+Hindu Jewish Coalition,2013-12-01,2015-08-03
+Arsha Vidya Gurukulam,2008-10-01,2015-08-11
+TiE NJ-Philadelphia,1997-01-01,2015-08-18
+
+95.Raghavan Ranganathan
+-----------Education----------------
+Indian Institute of Technology, Madras,,2007 – 2011
+---------- Past Companies-----------
+Rensselaer Polytechnic Institute,2012-01-01,2012-05-05
+-----------Current Companies-------
+
+96.Raghav Gopalarathnam
+-----------Education----------------
+IIT Madras,,2007 – 2011
+---------- Past Companies-----------
+Purdue University,2011-08-01,2013-05-01
+Purdue University,2012-08-01,2013-04-09
+Cisco Systems,2012-06-01,2012-08-03
+-----------Current Companies-------
+Cisco Systems, Wireless Networking Group,2013-06-01,2015-08-03
+
+97.Radha Akella
+-----------Education----------------
+iitm,,
+---------- Past Companies-----------
+-----------Current Companies-------
+
+98.Puneet Yamparala
+-----------Education----------------
+Indian Institute of Technology, Madras,,2003 – 2007
+---------- Past Companies-----------
+7 Minute Fitness Workout App,2013-05-01,2015-01-01
+Glytterati.com,2012-02-01,2015-01-03
+RelayHealth,2012-03-01,2013-07-01
+Apptivo,2010-01-01,2012-02-02
+-----------Current Companies-------
+App Entrepreneurs Association,2013-07-01,2015-08-03
+RealPage, Inc.,2013-06-01,2015-08-03
+App Entrepreneurs and Marketers Group,2012-03-01,2015-08-03
+
+99.Priyatham Tumurugoti
+-----------Education----------------
+Indian Institute of Technology, Madras,,2005 – 2009
+---------- Past Companies-----------
+Missouri S&T,2011-01-01,2012-05-01
+Missouri S&T,2011-01-01,2012-05-01
+-----------Current Companies-------
+Alfred University,2013-01-01,2015-08-03
+
+100.Prem Thomas
+-----------Education----------------
+Palm Harbor University High School,International Baccalaureate (IB),1997 – 2001
+---------- Past Companies-----------
+-----------Current Companies-------
+Gurus,2010-11-01,2015-08-10
+Sagene Pharmaceuticals,2010-02-01,2015-08-03
+
+101.Praveen Yedla
+-----------Education----------------
+Indian Institute of Technology, Madras,,1998 – 2002
+---------- Past Companies-----------
+-----------Current Companies-------
+Symphony Health Solutions,2015-04-01,2015-08-03
+Cognizant Technology Solutions,2008-10-01,2015-08-11
+
+102.Praveen Kumar Origanti
+-----------Education----------------
+St Claire Convent School,,
+---------- Past Companies-----------
+Qualcomm,2011-01-01,2012-09-01
+Qualcomm,2011-01-01,2012-09-01
+-----------Current Companies-------
+Qualcomm,2012-08-01,2015-08-03
+
+103.Praveen Patnala
+-----------Education----------------
+University of North Carolina at Chapel Hill,,1998 – 2000
+---------- Past Companies-----------
+-----------Current Companies-------
+BloomReach,2010-03-01,2015-08-03
+LambdaZen LLC,2014-07-01,2015-08-03
+
+104.Prashant Saxena
+-----------Education----------------
+Visvesvaraya Technological University,,2001 – 2005
+---------- Past Companies-----------
+Agility Research & Strategy,2011-09-01,2014-11-03
+National University of Singapore,2009-07-01,2012-08-03
+-----------Current Companies-------
+TNS,2015-01-01,2015-08-03
+
+105.Prasannaa Muralidharan
+-----------Education----------------
+Indian Institute of Technology, Madras,,1998 – 2002
+---------- Past Companies-----------
+PokerStars and FullTiltPoker,2011-09-01,2015-01-03
+PokerStars,2011-01-01,2011-09-09
+PokerStars,2011-01-01,2011-09-09
+-----------Current Companies-------
+Rational Group,2015-02-01,2015-08-03
+
+106.Vinay Praneeth Boda
+-----------Education----------------
+University of Maryland College Park,,
+---------- Past Companies-----------
+Qualcomm,2014-06-01,2014-08-03
+Qualcomm,2013-06-01,2013-08-03
+Saarang,IIT-Madras,2010-08-01,2011-05-10
+-----------Current Companies-------
+University of Maryland,2011-08-01,2015-03-01
+
+107.Pramod Naik (MTech; MIEAust)
+-----------Education----------------
+Goa Engineering College,Bachelor of Engineering (B.E.), Civil Engineering,1987 – 1991
+---------- Past Companies-----------
+Hatch Associates, Brisbane Australia,2012-07-01,2013-05-11
+Saipem ENI, Sharjah-UAE,2010-10-01,2012-07-01
+-----------Current Companies-------
+COWI,2013-08-01,2015-08-03
+
+108.Prahlad Kumar Routh
+-----------Education----------------
+Indian Institute of Technology, Madras,,2005 – 2009
+---------- Past Companies-----------
+National Institute of Standards and Technology,2014-05-01,2014-08-04
+State University of New York at Stony Brook,2010-08-01,2013-05-02
+-----------Current Companies-------
+Center for Functional Nanomaterials, Brookhaven National Laboratory,2011-02-01,2015-08-03
+PreScouter, Inc.,2015-04-01,2015-08-03
+
+109.Pradeep Natarajan
+-----------Education----------------
+Indian Institute of Technology, Madras,,1999 – 2003
+---------- Past Companies-----------
+Amazon,2014-01-01,2014-09-09
+Raytheon BBN Technologies,2013-02-01,2014-01-01
+Raytheon BBN Technologies,2009-07-01,2013-01-03
+-----------Current Companies-------
+Citadel LLC,2014-10-01,2015-08-11
+
+110.Pradeep Kondabattini
+-----------Education----------------
+Indian Institute of Technology, Madras,,2002 – 2004
+---------- Past Companies-----------
+Continental,2007-03-01,2013-03-06
+-----------Current Companies-------
+Geometric Ltd.,2013-04-01,2015-08-03
+
+111.Pradeep Chandy
+-----------Education----------------
+Holy Cross High School,,1994 – 1999
+---------- Past Companies-----------
+ZS Associates,2009-06-01,2013-06-04
+-----------Current Companies-------
+ZS Associates,2013-06-01,2015-08-03
+
+112.Nikhil Dani
+-----------Education----------------
+Indian Institute of Technology, Madras,,2004 – 2009
+---------- Past Companies-----------
+Deloitte Consulting,2011-07-01,2013-08-02
+-----------Current Companies-------
+Deloitte Consulting,2013-08-01,2015-08-03
+
+113.Poornima Padmanabhan
+-----------Education----------------
+DAV,,
+---------- Past Companies-----------
+Cornell,2012-08-01,2014-08-02
+-----------Current Companies-------
+Cornell University,2010-01-01,2015-08-03
+
+114.Poorna Praveen Rajendran
+-----------Education----------------
+Indian Institute of Technology, Madras,,1999 – 2003
+---------- Past Companies-----------
+GLOBALFOUNDRIES,2011-05-01,2014-06-03
+-----------Current Companies-------
+GLOBALFOUNDRIES,2014-06-01,2015-08-03
+
+115.Piyush Labhsetwar
+-----------Education----------------
+Atomic Energy Central School,high school,1990 – 2004
+---------- Past Companies-----------
+-----------Current Companies-------
+UIUC,2009-08-01,2015-08-03
+
+116.Phanisri Pradeep Pratapa
+-----------Education----------------
+Indian Institute of Technology, Madras,,2006 – 2010
+---------- Past Companies-----------
+McDermott International Inc.,2012-03-01,2013-07-01
+The University of Texas at Austin,2011-01-01,2011-12-01
+The University of Texas at Austin,2011-01-01,2011-12-01
+-----------Current Companies-------
+Georgia Institute of Technology,2013-08-01,2015-08-03
+
+117.Phani Vajapeyazula
+-----------Education----------------
+D A V Public School,,1984 – 1996
+---------- Past Companies-----------
+Cummins Inc.,2012-10-01,2014-10-02
+Cummins Inc.,2011-02-01,2012-10-01
+Cummins, Inc,2009-10-01,2011-01-01
+-----------Current Companies-------
+Cummins Inc.,2014-11-01,2015-08-10
+
+118.Ramesh Babu Perumal
+-----------Education----------------
+Hindu Senior Secondary School,,
+---------- Past Companies-----------
+Mirafra Technologies,2012-11-01,2014-03-01
+Aricent Group,2011-10-01,2012-11-01
+-----------Current Companies-------
+Symstream,2014-04-01,2015-08-03
+
+119.PawanKumar Suresh (suresh.pawankumar@gene.com)
+-----------Education----------------
+D.A.V Public School,Seconday School Examination Marks Statement, English, Math, Science, Social studies, Hindi, Sanskrit, 90.4,1995 – 2002
+---------- Past Companies-----------
+Genentech - A member of the Roche group,2012-06-01,2014-09-02
+Xoran Technologies,2012-01-01,2012-03-03
+Drexel University's College of Nursing and Health Professions,2011-09-01,2011-12-04
+Drexel University College of Medicine,2011-04-01,2011-09-06
+Drexel University,2011-03-01,2011-06-04
+IHVR,2011-01-01,2011-03-03
+IHVR,2011-01-01,2011-03-03
+Goodwin College of Professional Studies, Drexel University,2010-01-01,3001-03-01
+-----------Current Companies-------
+Genentech,2014-10-01,2015-08-11
+
+120.Pawan Agarwal
+-----------Education----------------
+Indian Institute of Technology, Madras,,2004 – 2009
+---------- Past Companies-----------
+MaxLinear,2014-06-01,2014-10-05
+AppliedMicro,2012-05-01,2012-07-03
+Applied Micro,2011-05-01,2011-08-04
+Applied Micro,2009-07-01,2011-05-01
+-----------Current Companies-------
+Washington State University,2011-08-01,2015-08-03
+
+121.Pavan Piratla
+-----------Education----------------
+Tenali,,
+---------- Past Companies-----------
+Twitter,2014-04-01,2014-08-05
+Twitter,2013-10-01,2014-08-11
+Twitter,2012-12-01,2013-09-10
+Google,2010-11-01,2012-11-02
+-----------Current Companies-------
+ThoughtSpot,2014-08-01,2015-08-03
+
+122.Pavan Kaivaram
+-----------Education----------------
+Indian Institute of Technology, Chennai,Bachelor of Technology, Electrical Engineering,1997 – 2001
+---------- Past Companies-----------
+-----------Current Companies-------
+Qualcomm,2010-04-01,2015-08-03
+
+123.Om Oza
+-----------Education----------------
+Indian Institute Of Technology,B.S. / M.S, Electrical Engineering/Communications,2003 – 2008
+---------- Past Companies-----------
+University of Maryland,2011-05-01,2012-05-01
+Intel Corporation,2011-05-01,2011-08-04
+-----------Current Companies-------
+Qualcomm,2012-03-01,2015-08-03
+
+124.Noshir Contractor
+-----------Education----------------
+Indian Institute of Technology, Madras,,1978 – 1983
+---------- Past Companies-----------
+-----------Current Companies-------
+Web Science Trust,2011-10-01,2015-08-11
+Syndio Social, LLC.,2010-11-01,2015-08-10

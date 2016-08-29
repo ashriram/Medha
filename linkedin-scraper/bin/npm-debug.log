@@ -1,0 +1,57 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'json2csv',
+1 verbose cli   '--save' ]
+2 info using npm@1.1.48
+3 info using node@v0.8.6
+4 verbose config file /home/ashriram/.npmrc
+5 verbose config file /usr/local/etc/npmrc
+6 verbose config file /usr/local/lib/node_modules/npm/npmrc
+7 verbose read json /home/ashriram/Working/linkedin-scraper/bin/package.json
+8 verbose read json /home/ashriram/Working/linkedin-scraper/bin/package.json
+9 verbose cache add [ 'json2csv', null ]
+10 silly cache add name=undefined spec="json2csv" args=["json2csv",null]
+11 verbose parsed url { pathname: 'json2csv', path: 'json2csv', href: 'json2csv' }
+12 silly lockFile 24fd17f0-json2csv json2csv
+13 verbose lock json2csv /home/ashriram/.npm/24fd17f0-json2csv.lock
+14 silly lockFile 24fd17f0-json2csv json2csv
+15 verbose addNamed [ 'json2csv', '' ]
+16 verbose addNamed [ null, '' ]
+17 silly lockFile 8c41a977-json2csv json2csv@
+18 verbose lock json2csv@ /home/ashriram/.npm/8c41a977-json2csv.lock
+19 silly addNameRange { name: 'json2csv', range: '', hasData: false }
+20 verbose url raw json2csv
+21 verbose url resolving [ 'https://registry.npmjs.org/', './json2csv' ]
+22 verbose url resolved https://registry.npmjs.org/json2csv
+23 info retry registry request attempt 1 at 16:04:08
+24 http GET https://registry.npmjs.org/json2csv
+25 info retry will retry, error on last attempt: Error: SSL Error: CERT_UNTRUSTED
+26 info retry registry request attempt 2 at 16:04:18
+27 http GET https://registry.npmjs.org/json2csv
+28 info retry will retry, error on last attempt: Error: SSL Error: CERT_UNTRUSTED
+29 info retry registry request attempt 3 at 16:05:18
+30 http GET https://registry.npmjs.org/json2csv
+31 silly lockFile 8c41a977-json2csv json2csv@
+32 error Error: SSL Error: CERT_UNTRUSTED
+32 error     at ClientRequest.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/main.js:440:26)
+32 error     at ClientRequest.g (events.js:185:14)
+32 error     at ClientRequest.EventEmitter.emit (events.js:88:17)
+32 error     at HTTPParser.parserOnIncomingClient [as onIncoming] (http.js:1455:7)
+32 error     at HTTPParser.parserOnHeadersComplete [as onHeadersComplete] (http.js:111:23)
+32 error     at CleartextStream.socketOnData [as ondata] (http.js:1366:20)
+32 error     at CleartextStream.CryptoStream._push (tls.js:485:27)
+32 error     at SecurePair.cycle (tls.js:839:20)
+32 error     at EncryptedStream.CryptoStream.write (tls.js:220:13)
+32 error     at Socket.ondata (stream.js:38:26)
+33 error If you need help, you may report this log at:
+33 error     <http://github.com/isaacs/npm/issues>
+33 error or email it to:
+33 error     <npm-@googlegroups.com>
+34 error System Linux 3.13.0-61-generic
+35 error command "/usr/local/bin/node" "/usr/local/bin/npm" "install" "json2csv" "--save"
+36 error cwd /home/ashriram/Working/linkedin-scraper/bin
+37 error node -v v0.8.6
+38 error npm -v 1.1.48
+39 verbose exit [ 1, true ]

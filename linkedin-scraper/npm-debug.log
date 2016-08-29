@@ -1,0 +1,58 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'i',
+1 verbose cli   'linkedin-scraper' ]
+2 info using npm@1.1.48
+3 info using node@v0.8.6
+4 verbose config file /root/.npmrc
+5 verbose config file /usr/local/etc/npmrc
+6 verbose config file /usr/local/lib/node_modules/npm/npmrc
+7 verbose read json /tmp/linkedin-scraper/package.json
+8 verbose read json /tmp/linkedin-scraper/package.json
+9 verbose cache add [ 'linkedin-scraper', null ]
+10 silly cache add name=undefined spec="linkedin-scraper" args=["linkedin-scraper",null]
+11 verbose parsed url { pathname: 'linkedin-scraper',
+11 verbose parsed url   path: 'linkedin-scraper',
+11 verbose parsed url   href: 'linkedin-scraper' }
+12 silly lockFile e1123439-linkedin-scraper linkedin-scraper
+13 verbose lock linkedin-scraper /root/.npm/e1123439-linkedin-scraper.lock
+14 silly lockFile e1123439-linkedin-scraper linkedin-scraper
+15 verbose addNamed [ 'linkedin-scraper', '' ]
+16 verbose addNamed [ null, '' ]
+17 silly lockFile 68a13a34-linkedin-scraper linkedin-scraper@
+18 verbose lock linkedin-scraper@ /root/.npm/68a13a34-linkedin-scraper.lock
+19 silly addNameRange { name: 'linkedin-scraper', range: '', hasData: false }
+20 verbose url raw linkedin-scraper
+21 verbose url resolving [ 'https://registry.npmjs.org/', './linkedin-scraper' ]
+22 verbose url resolved https://registry.npmjs.org/linkedin-scraper
+23 info retry registry request attempt 1 at 16:27:48
+24 http GET https://registry.npmjs.org/linkedin-scraper
+25 info retry will retry, error on last attempt: Error: SSL Error: CERT_UNTRUSTED
+26 info retry registry request attempt 2 at 16:27:58
+27 http GET https://registry.npmjs.org/linkedin-scraper
+28 info retry will retry, error on last attempt: Error: SSL Error: CERT_UNTRUSTED
+29 info retry registry request attempt 3 at 16:28:58
+30 http GET https://registry.npmjs.org/linkedin-scraper
+31 silly lockFile 68a13a34-linkedin-scraper linkedin-scraper@
+32 error Error: SSL Error: CERT_UNTRUSTED
+32 error     at ClientRequest.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/main.js:440:26)
+32 error     at ClientRequest.g (events.js:185:14)
+32 error     at ClientRequest.EventEmitter.emit (events.js:88:17)
+32 error     at HTTPParser.parserOnIncomingClient (http.js:1455:7)
+32 error     at HTTPParser.parserOnHeadersComplete [as onHeadersComplete] (http.js:111:23)
+32 error     at CleartextStream.socketOnData (http.js:1366:20)
+32 error     at CleartextStream.CryptoStream._push (tls.js:485:27)
+32 error     at SecurePair.cycle (tls.js:839:20)
+32 error     at EncryptedStream.CryptoStream.write (tls.js:220:13)
+32 error     at Socket.ondata (stream.js:38:26)
+33 error If you need help, you may report this log at:
+33 error     <http://github.com/isaacs/npm/issues>
+33 error or email it to:
+33 error     <npm-@googlegroups.com>
+34 error System Linux 3.13.0-61-generic
+35 error command "/usr/local/bin/node" "/usr/local/bin/npm" "i" "linkedin-scraper"
+36 error cwd /tmp/linkedin-scraper
+37 error node -v v0.8.6
+38 error npm -v 1.1.48
+39 verbose exit [ 1, true ]
